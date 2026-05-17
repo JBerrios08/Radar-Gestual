@@ -1,0 +1,15 @@
+# Ignorar entorno virtual
+.venv/
+
+# Ignorar archivos de VS Code
+.vscode/
+
+# Ignorar __pycache__
+__pycache__/
+
+# Ignorar archivos binarios o temporales
+*.pyc
+*.pyo
+*.pyd
+*.DS_Storegit add .gitignore
+git add arduino.cpp radar_windows.py prueba_motor.py
